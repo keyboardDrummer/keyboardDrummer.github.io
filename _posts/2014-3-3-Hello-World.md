@@ -10,6 +10,8 @@ In today's world, most education, especially education for children, is provided
 
 <iframe class="qp_iframe" src="https://www.poll-maker.com/frame3521929xF9DC897B-106" seamless="seamless" frameborder="no" style="border:0; background:transparent; width:100%; height:539px;"></iframe><div id='qp_foot3521929' style='width:100%; padding:5px; text-align:center;'>Created with <a href='https://www.poll-maker.com/'>Poll Maker</a></div><STYLE>@media (max-width:320px) {.qp_iframe{min-height:683px}}@media (max-width:375px) {.qp_iframe{min-height:611px}}@media (max-width:414px) {.qp_iframe{min-height:611px}}</STYLE>
 
+Text between polls
+
 <script>(function(i,s,o,g,r,a,m){i['QP']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//scripts.poll-maker.com/3012/pollembed.js','qp');</script>
 
 The above poll shows that few of us think our education was optimal. Of course, it's easy to criticise and maybe our education was actually better than we think, but let's assume for now our collective opinion is pretty on the mark.
