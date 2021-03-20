@@ -8,11 +8,7 @@ We as a society benefit financially from educating each other because it improve
 # Problem
 In today's world, most education, especially education for children, is provided by the government. A common argument against state-owned organisations is that they're supposedly not effective at reaching their goal. How is our government's educational system doing in that regard? Let's look at some data. Here's a poll to collect the opinions of you and your follow readers.
 
-Poll, how was your education?
-- Great
-- Too easy: I could have finished earlier or gone through more material if the class went faster.
-- Too hard: I could have learned more if the pace had been slower
-- Bad: the teachers weren't that good.
+<script>(function(i,s,o,g,r,a,m){i['QP']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//scripts.poll-maker.com/3012/pollembed.js','qp');</script>
 
 The above poll shows that few of us think our education was optimal. Of course, it's easy to criticise and maybe our education was actually better than we think, but let's assume for now our collective opinion is pretty on the mark.
 
