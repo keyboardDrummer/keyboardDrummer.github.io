@@ -21,7 +21,7 @@ There are a number of problems with the above approach that we need to address:
 - How do we provide education that's unrelated to prospective income?
 - How do we balance the needs of government, parents and student?
 - How do we handle an education provider not meeting expectations?
-- How do we ensure education providers can make a profit?
+- How do we ensure education providers are paid fairly?
 
 <!--
 - How do we prevent education providers from making too much profit?
@@ -86,7 +86,7 @@ Educational contracts are periodically appraised. The government will estimate h
 
 Right to educate contracts have a cancellation clause which can be invoked if the parents or the government are unhappy with an education provider, which likely happens if they think the provider is under-educating the child.
 
-## How do we ensure education providers can make a profit?
+## How do we ensure education providers are paid fairly?
 Educating a person is an extremely risky and long term investment. It's possible that no private investors are willing to do this. Education contracts should be tradeable, so that one provider can sell a contract to another provider. This way, an education contract holder can make a profit simply by increasing the expected income of the student, without actually getting any direct payout from the contract.
 
 To jumpstart the education contract trading market, the government should act as a buyer of education contracts, after which it will try to sell the contract again. If there's no buyer for the contract, the student will roll into a government provided educational system.
