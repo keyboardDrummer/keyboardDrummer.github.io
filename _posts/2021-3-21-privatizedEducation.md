@@ -69,9 +69,7 @@ We want to keep the `threshold` as low as possible, since education providers ar
 
 ## How do we provide education that's unrelated to prospective income?
 Education providers may differ in factors that don't necessarily relate to improved income, factors such as:
-- Cultural education
-- Religious education
-- Physical education
+- Physical, cultural and religious education
 - Flexible education, the ability for students to choose what job they want to do.
 - Student happiness, how much students enjoy their education
 
