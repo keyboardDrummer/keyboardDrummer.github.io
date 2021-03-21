@@ -17,7 +17,7 @@ In the media, we can also find numerous issues with eductional as is. In the Net
 Privatizing free education can be done by letting the government sell a 'right to educate' contract that's tied to a specific person. Whomever owns the contract is paid a percentage of that person's earnings each year. Owning such a contract thus means you're incentivised to help that person get a great career, which you can do by educating them.
 
 There are a number of problems with the above approach that we need to address:
-- How do ensure students are educated fairly?
+- How do we ensure students are educated equally?
 - How do we provide education that's unrelated to prospective income?
 - How do we balance the needs of government, parents and student?
 - How do we handle an education provider not meeting expectations?
@@ -28,7 +28,7 @@ There are a number of problems with the above approach that we need to address:
 - How can we gradually move to this system?
 -->
 
-## How do ensure students are educated fairly?
+## How do we ensure students are educated equally?
 It's important that students, after leaving the educational system, are at a similar level of capability. Educational equality improves income equality and reduces the need for social welfare.
 
 When it comes to equality in education, we can consider three different extremes:
