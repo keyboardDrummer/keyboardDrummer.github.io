@@ -3,12 +3,6 @@ layout: post
 title: Privatized free education
 ---
 
-<!--
-We as a society benefit financially from educating each other because it improves the career a person will have: education increases how much someone earns over their lifetime. The government takes a part of these earnings as taxes to retroactively pay for your education, and even if you're not paying taxes, having a certain level of income means the government won't have to pay you social security.
-
-# Problem
--->
-
 Governments around the world often provide free education. The benefit of doing this is huge, and one of expressing it is in terms of government finances. Since education improves people's income, it enables the government to collect more taxes and reduces the social welfare they have to distribute.
 
 Many governments organise the free education they provide themselves. A common argument against state-operated organisations is that they're supposedly not effective at reaching their goal. How are government operated educational systems doing in that regard? Let's look at some data. Here's a poll to collect the opinions of you and your follow readers.
@@ -46,12 +40,12 @@ The Dutch educational system is a mix of equal, fair and greedy. It's mostly fai
  
 When using educational contracts to privatise education, a linear contract, where the layout is linearly coupled to the student's income, leeds to a greedy system. An equal system is created by giving a flat payout as long as the student is above a certain minimum income. Such a system would mean fast learners get the shortest education, since their education stops when they come within that minimum income. It's not possibe to set the contract payout in such as way that it leads to a 'fair' system, but we believe that a fair system is not a diserable goal, only equal and greedy outcomes are. We therefore suggest combining both the greedy and equal system:
 
-`
-payout(income) = greediness * greedy + (1 - greediness) * equal
+{% highlight haskell %}
+payout income = greedy * greedyPart + (1 - greedy) * equalPart
 where 
-    greedy = factor * income
-    equal = if (income > threshold) flatPayout else 0
-`
+    greedyPart = factor * income
+    equalPart = if (income > threshold) flatPayout else 0
+{% endhighlight %}
 
 To prevent fraud, the following invariant must hold:
 
