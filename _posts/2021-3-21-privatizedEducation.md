@@ -28,6 +28,7 @@ There are a number of problems with the above approach that we need to address:
 - How do we balance the needs of government, parents and student?
 - How do we handle an education provider not meeting expectations?
 - How do we ensure education providers can make a profit?
+
 <!--
 - How do we prevent education providers from making too much profit?
 - How can we gradually move to this system?
@@ -45,14 +46,15 @@ The Dutch educational system is a mix of equal, fair and greedy. It's mostly fai
  
 When using educational contracts to privatise education, a linear contract, where the layout is linearly coupled to the student's income, leeds to a greedy system. An equal system is created by giving a flat payout as long as the student is above a certain minimum income. Such a system would mean fast learners get the shortest education, since their education stops when they come within that minimum income. It's not possibe to set the contract payout in such as way that it leads to a 'fair' system, but we believe that a fair system is not a diserable goal, only equal and greedy outcomes are. We therefore suggest combining both the greedy and equal system:
 
-```
+`
 payout(income) = greediness * greedy + (1 - greediness) * equal
 where 
     greedy = factor * income
     equal = if (income > threshold) flatPayout else 0
-```
+`
 
 To prevent fraud, the following invariant must hold:
+
 `tax(threshold) - tax(0) > payout(threshold)`
 
 Which we can rewrite to:
