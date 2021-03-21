@@ -1,21 +1,26 @@
 ---
 layout: post
-title: Privatized education
+title: Privatized free education
 ---
 
+<!--
 We as a society benefit financially from educating each other because it improves the career a person will have: education increases how much someone earns over their lifetime. The government takes a part of these earnings as taxes to retroactively pay for your education, and even if you're not paying taxes, having a certain level of income means the government won't have to pay you social security.
 
 # Problem
-In today's world, most education, especially education for children, is provided by the government. A common argument against state-owned organisations is that they're supposedly not effective at reaching their goal. How is our government's educational system doing in that regard? Let's look at some data. Here's a poll to collect the opinions of you and your follow readers.
+-->
+
+Governments around the world often provide free education. The benefit of doing this is huge, and one of expressing it is in terms of government finances. Since education improves people's income, it enables the government to collect more taxes and reduces the social welfare they have to distribute.
+
+Many governments organise the free education they provide themselves. A common argument against state-operated organisations is that they're supposedly not effective at reaching their goal. How are government operated educational systems doing in that regard? Let's look at some data. Here's a poll to collect the opinions of you and your follow readers.
 
 <iframe class="qp_iframe" src="https://www.poll-maker.com/frame3521929xF9DC897B-106" seamless="seamless" frameborder="no" style="border:0; background:transparent; width:100%; height:539px;"></iframe><div id='qp_foot3521929' style='width:100%; padding:5px; text-align:center;'>Created with <a href='https://www.poll-maker.com/'>Poll Maker</a></div><STYLE>@media (max-width:320px) {.qp_iframe{min-height:683px}}@media (max-width:375px) {.qp_iframe{min-height:611px}}@media (max-width:414px) {.qp_iframe{min-height:611px}}</STYLE>
 
-The above poll shows that few of us think our education was optimal. Of course, it's easy to criticise and maybe our education was actually better than we think, but let's assume for now our collective opinion is pretty on the mark.
+The above poll shows that few of us think our education was optimal. Of course, it's easy to criticise and maybe our education was actually better than we think.
 
-In the media, we can also find numerous issues with eductional as is. In the Netherlands, there are primary school teacher shortages so vast that primary school classes can reach over 50 students. Sometimes schools let people teach that have not even started their teacher's education yet, because they have no other options. Another concern is that only 15% of primary school teachers are male.
+In the media, we can also find numerous issues with eductional as is. In the Netherlands, there are primary school teacher shortages so vast that primary school classes can reach over 50 students. Sometimes schools let people teach that have not yet started their teacher's education, because the schools have no other teachers. Another concern is that only 15% of primary school teachers are male.
 
 # Solution
-Privatizing education can be done by letting the government sell a 'right to educate' contract that's tied to a specific person. Whomever owns the contract is paid a percentage of that person's earnings each year. Owning such a contract thus means you're incentivised to help that person get a great career, which you can do by educating them.
+Privatizing free education can be done by letting the government sell a 'right to educate' contract that's tied to a specific person. Whomever owns the contract is paid a percentage of that person's earnings each year. Owning such a contract thus means you're incentivised to help that person get a great career, which you can do by educating them.
 
 There are a number of problems with the above approach that we need to address:
 - How do ensure students are educated fairly?
@@ -23,7 +28,6 @@ There are a number of problems with the above approach that we need to address:
 - How do we balance the needs of government, parents and student?
 - How do we handle an education provider not meeting expectations?
 - How do we ensure education providers can make a profit?
-  - How do we handle students that emmigrate later in life?
 <!--
 - How do we prevent education providers from making too much profit?
 - How can we gradually move to this system?
@@ -93,10 +97,35 @@ Educating a person is an extremely risky and long term investment. It's possible
 
 To jumpstart the education contract trading market, the government should act as a buyer of education contracts, after which it will try to sell the contract again. If there's no buyer for the contract, the student will roll into a government provided educational system.
 
-### Emmigration
-What happens if a student decides to move to another country, where they won't pay taxes and it may not be possible to track their income? Will the holder of the 'right to educate' contract be left without a payout? In this case the government will make an estimate of what would have been paid out for that person per year, and pay that out on a yearly basis. If the person happens to immigrate back, the normal payment based on their income will continue.
+<!--
+payout(income) = greediness * greedy + (1 - greediness) * equal
+where 
+    greedy = factor * income
+    equal = if (income > threshold) flatPayout else 0
 
+average_lifetime_income
+
+contract_value = lifetime_payout(person) - education_cost(person)
+
+contract_value should be positive for people expected to meet the threshold, so
+lifetime_payout(person) > education_cost(person)
+
+lifetime_payout(person) = greediness * greedy + (1 - greediness) * equal
+where 
+    greedy = factor * lifetime_income
+    equal = if (lifetime_income > lifetime_threshold) lifetime_flat else 0
+
+lifetime_payout(person) = greediness * factor * lifetime_income + (1 - greediness) * lifetime_flat
+
+greediness * factor * lifetime_income + (1 - greediness) * lifetime_flat > education_cost
+
+-->
+### Emmigration
+What happens if a student decides to move to another country, where they won't pay taxes to the country where they were educated, and it may not be possible to track their income? Will the holder of the 'right to educate' contract be left without a payout? In this case the government will make an estimate of what would have been paid out for that person per year, and pay that out on a yearly basis. If the person happens to immigrate back, the normal payment based on their income will continue.
+
+<!--
 Are there weird side-effects because contract holders might benefit from people leaving or staying in the country? Will they contact people and offer them money for saying or leaving?
+-->
 
 
 
