@@ -3,13 +3,17 @@ layout: post
 title: Privatized free education
 ---
 
-Governments around the world often provide free education. Almost always, they not only provide but also organise the free education. A common complaint against state-operated organisations is that they're supposedly not effective at reaching their goal. How are government operated educational systems doing in that regard? Let's look at some data. Here's a poll to collect the opinions of you and your follow readers.
+Governments around the world often provide free education. Almost always, they not only provide but also organise the free education. 
+
+A common complaint against government-operated organisations is that they're supposedly not effective at reaching their goal. How are our educational systems doing in that regard? Let's look at some data. Here's a poll to collect the opinions of you and your follow readers.
 
 <iframe class="qp_iframe" src="https://www.poll-maker.com/frame3521929xF9DC897B-106" seamless="seamless" frameborder="no" style="border:0; background:transparent; width:100%; height:539px;"></iframe><div id='qp_foot3521929' style='width:100%; padding:5px; text-align:center;'>Created with <a href='https://www.poll-maker.com/'>Poll Maker</a></div><STYLE>@media (max-width:320px) {.qp_iframe{min-height:683px}}@media (max-width:375px) {.qp_iframe{min-height:611px}}@media (max-width:414px) {.qp_iframe{min-height:611px}}</STYLE>
 
 The above poll shows that few of us think our education was optimal. Of course, it's easy to criticise and maybe our education was actually better than we think.
 
 In the media, we can find numerous articles describing issues with educational systems around the globe. In the Netherlands, there are primary school teacher shortages so vast that primary school classes can reach over 50 students. Sometimes schools let people teach that have not yet started their teacher's education, because the schools have no other teachers. Another concern is that only 15% of primary school teachers are male.
+
+Suppose some of the issues in education are caused by it being government-operated, how can we do this differently?
 
 # Solution
 Privatizing free education can be done by letting the government sell an education contract that's tied to a specific person. Whomever owns the contract is given some payout each year that depends on the person's income. Owning such a contract thus means you're incentivised to help that person get a great career, which you can do by educating them.
