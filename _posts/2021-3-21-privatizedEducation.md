@@ -3,20 +3,20 @@ layout: post
 title: Privatized free education
 ---
 
-Governments around the world often provide free education. Almost always, they not only provide but also organise it. 
+Governments around the world often provide free education. Almost always, they not only provide but also organize it. 
 
-A common complaint against government-operated organisations is that they're supposedly not effective at reaching their goal. How are our educational systems doing in that regard? Let's look at some data. Here's a poll to collect the opinions of you and your follow readers:
+A common complaint against government-operated organizations is that they're supposedly not effective at reaching their goal. How are our educational systems doing in that regard? Let's look at some data. Here's a poll to collect the opinions of you and your follow readers:
 
 <iframe class="qp_iframe" src="https://www.poll-maker.com/frame3521929xF9DC897B-106" seamless="seamless" frameborder="no" style="border:0; background:transparent; width:100%; height:539px;"></iframe><div id='qp_foot3521929' style='width:100%; padding:5px; text-align:center;'>Created with <a href='https://www.poll-maker.com/'>Poll Maker</a></div><STYLE>@media (max-width:320px) {.qp_iframe{min-height:683px}}@media (max-width:375px) {.qp_iframe{min-height:611px}}@media (max-width:414px) {.qp_iframe{min-height:611px}}</STYLE>
 
-The above poll shows that few of us think our education was optimal. Of course, it's easy to criticise, and maybe our education was actually better than we think.
+The above poll shows that few of us think our education was optimal. Of course, it's easy to criticize, and maybe our education was actually better than we think.
 
 In the media, we can find numerous articles describing issues with educational systems around the globe. In the Netherlands, there are primary school teacher shortages so vast that primary school classes can reach over 50 students. Sometimes schools let people teach that have not yet started their teacher's education, because they have no one else to teach.
 
 Suppose some of the issues in education are caused by it being government-operated, how can we do this differently?
 
 # Proposal
-Privatizing free education can be done by letting the government sell an education contract. Such a contract is tied to a specific person, who we'll call the student. Whomever owns the contract is given some payout each year that depends on the student's income. Owning the contract thus means you're incentivised to help the student get a great career, which you can do by educating them.
+Privatizing free education can be done by letting the government sell an education contract. Such a contract is tied to a specific person, who we'll call the student. Whomever owns the contract is given some payout each year that depends on the student's income. Owning the contract thus means you're incentivized to help the student get a great career, which you can do by educating them.
 
 The above approach raises a number of questions that we need to address:
 - How do we ensure students are educated equally?
@@ -40,12 +40,11 @@ When it comes to equality in education, we can consider three different extremes
 
 The Dutch educational system is a mix of equal, fair and greedy. It's mostly fair in the sense that most students will get a similar amount of education, with similar class sizes and their teachers receive similar salaries. However, it's also greedy since fast learners are taught slightly longer in the Dutch system. Fast learners generally end their high school at 18 years of age while slower learners end it at age 16. The system is equal in the sense that students who struggle a bit, but not too much, can stay in the same level they are, but simply take longer to finish it.
 
-When using educational contracts to privatise education, we can set the payout in such a way to achieve different types of equality in our education. 
+When using educational contracts to privatize education, we can set the payout in such a way to achieve different types of equality in our education. 
 - A payout that's linearly coupled to the student's income leads to a greedy system.
 - A flat payout that's given if the student's income is above a certain minimum leads to an equal system.
-- It's not possibe to set the contract payout in such as way that it leads to a fair system. 
-  
-We believe that a fair system is not a diserable goal, only equal and greedy systems are. We suggest combining both the greedy and equal types of payout:
+
+It's not possible to set the contract payout in such as way that it leads to a fair system. However, we believe that a fair system is not a desirable goal, only equal and greedy systems are. We suggest combining both the greedy and equal types of payout:
 
 {% highlight haskell %}
 payout income = greedy * greedyPart + (1 - greedy) * equalPart
@@ -54,9 +53,9 @@ where
     equalPart = if (income > threshold) flatPayout else 0
 {% endhighlight %}
 
-Choosing the right threshold is difficult. The threshold determines what income the educational system is optimised for. Both people with a higher and people with a lower income than the threshold are at risk over being undereducated. People with a higher income than the threshold are undereducated because the educator will notice the person is already good enough to meet the threshold, so stop educating them. People with a lower income than the threshold are undereducated because the educator will notice the person won't make the threshold, so stop investing in them.
+Choosing the right threshold is difficult. The threshold determines what income the educational system is optimized for. Both people with a higher and people with a lower income than the threshold are at risk of being undereducated. People with a higher income than the threshold are undereducated because the educator will notice the person is already good enough to meet the threshold, so stop educating them. People with a lower income than the threshold are undereducated because the educator will notice the person won't make the threshold, so stop investing in them.
 
-We suggest placing the threshold at the height of the lowest earning jobs, to maximise the number of people that can find a job.
+We suggest placing the threshold at the height of the lowest earning jobs, to maximize the number of people that can find a job.
 
 <!-- 
 Section about why 'fair' education isn't good, that it leads to both overeducation of weak learning and undereducation of strong learners.
@@ -81,7 +80,7 @@ Education providers may differ in factors that don't necessarily relate to impro
 - Flexible education, the ability for students to choose what job they want to do.
 - Student happiness, how much students enjoy their education
 
-Such factors can be included as part of the educational contract. The contract can specify how much time the student much be educated in each of those topics, and possibly what the outcome should be. If a contract holder does not meet these criteria they can be concidered in breach and be forced to sell the contract. We later establish a mechanism for forced sale of a contract.
+Such factors can be included as part of the educational contract. The contract can specify how much time the student much be educated in each of those topics, and possibly what the outcome should be. If a contract holder does not meet these criteria they can be considered in breach and be forced to sell the contract. We later establish a mechanism for forced sale of a contract.
 -->
 
 ## How do we balance the needs of government, parents and student?
@@ -92,10 +91,10 @@ The government will likely filter out education providers that it does not trust
 
 Education providers may offer more or less money to buy a contract, and in the case of a student with a learning disability may even ask for money to 'buy' the contract. 
 
-Expensive education providers are those that bid a relatively small amount for an educational contract. The government may ask parents or student to compensate for choosing an expensive education provider. However, we suggest considering providing parents and student with a fixed educational budget that they can use to spend on more expensive eductional providers, so that poor parents also have a choice in what provider to pick.
+Expensive education providers are those that bid a relatively small amount for an educational contract. The government may ask parents or student to compensate for choosing an expensive education provider. However, we suggest considering providing parents and student with a fixed educational budget that they can use to spend on more expensive educational providers, so that poor parents also have a choice in what provider to pick.
 
 ## How do we handle an education provider that's not meeting expectations?
-What if an education provider is "undereducating" the child, not educating them well enough to get the most out of the contract?
+What if an education provider is 'under-educating' the child, not educating them well enough to get the most out of the contract?
 
 Educational contracts are periodically appraised. The government will estimate how much the student will earn throughout their lifetime, and together with its estimations of costs to educate, will determine how much it thinks the education contract the student is currently worth.
 
@@ -104,7 +103,7 @@ Education contracts have a cancellation clause which can be invoked if the gover
 If parents or a child are not happy with their education providers, they can ask another education provider to buy the contract from the current one, and offer some money for this. The money can be spent from the parent's educational budget.
 
 ## How do we ensure education providers are paid fairly?
-Educating a person is an extremely risky and long term investment. It's possible that no private investors are willing to do this. Education contracts should be tradeable, so that one provider can sell a contract to another provider. This way, an education contract holder can make a profit simply by increasing the expected income of the student, without actually getting any direct payout from the contract.
+Educating a person is an extremely risky and long term investment. It's possible that no private investors are willing to do this. Education contracts should be tradable, so that one provider can sell a contract to another provider. This way, an education contract holder can make a profit simply by increasing the expected income of the student, without actually getting any direct payout from the contract.
 
 To jump-start the education contract trading market, the government should act as a buyer of education contracts, after which it will try to sell the contract again. To prevent abuse, the government will only buy a contract once every so often, for example only once a year.
 
@@ -132,7 +131,7 @@ lifetime_payout(person) = greediness * factor * lifetime_income + (1 - greedines
 greediness * factor * lifetime_income + (1 - greediness) * lifetime_flat > education_cost
 
 -->
-### Emmigration
+### Emigration
 What happens if a student decides to move to another country, where they won't pay taxes to the country where they were educated, and it may not be possible to track their income? Will the holder of the educational contract be left without a payout? 
 
 In this case the government will make an estimate of what would have been paid out for that person per year, and pay that out on a yearly basis. If the person happens to immigrate back, the normal payment based on their income will continue.
