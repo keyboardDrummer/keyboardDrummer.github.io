@@ -3,26 +3,26 @@ layout: post
 title: Privatized free education
 ---
 
-Governments around the world often provide free education. Almost always, they not only provide but also organise the free education. 
+Governments around the world often provide free education. Almost always, they not only provide but also organise it. 
 
 A common complaint against government-operated organisations is that they're supposedly not effective at reaching their goal. How are our educational systems doing in that regard? Let's look at some data. Here's a poll to collect the opinions of you and your follow readers:
 
 <iframe class="qp_iframe" src="https://www.poll-maker.com/frame3521929xF9DC897B-106" seamless="seamless" frameborder="no" style="border:0; background:transparent; width:100%; height:539px;"></iframe><div id='qp_foot3521929' style='width:100%; padding:5px; text-align:center;'>Created with <a href='https://www.poll-maker.com/'>Poll Maker</a></div><STYLE>@media (max-width:320px) {.qp_iframe{min-height:683px}}@media (max-width:375px) {.qp_iframe{min-height:611px}}@media (max-width:414px) {.qp_iframe{min-height:611px}}</STYLE>
 
-The above poll shows that few of us think our education was optimal. Of course, it's easy to criticise and maybe our education was actually better than we think.
+The above poll shows that few of us think our education was optimal. Of course, it's easy to criticise, and maybe our education was actually better than we think.
 
 In the media, we can find numerous articles describing issues with educational systems around the globe. In the Netherlands, there are primary school teacher shortages so vast that primary school classes can reach over 50 students. Sometimes schools let people teach that have not yet started their teacher's education, because they have no one else to teach.
 
 Suppose some of the issues in education are caused by it being government-operated, how can we do this differently?
 
 # Proposal
-Privatizing free education can be done by letting the government sell an education contract. Such a contract is tied to a specific person. Whomever owns the contract is given some payout each year that depends on the person's income. Owning the contract thus means you're incentivised to help that person get a great career, which you can do by educating them.
+Privatizing free education can be done by letting the government sell an education contract. Such a contract is tied to a specific person, who we'll call the student. Whomever owns the contract is given some payout each year that depends on the student's income. Owning the contract thus means you're incentivised to help the student get a great career, which you can do by educating them.
 
-There are a number of problems with the above approach that we need to address:
+The above approach raises a number of questions that we need to address:
 - How do we ensure students are educated equally?
 <!-- - How do we provide broad education not just focused on future income? -->
 - How do we balance the needs of government, parents and student?
-- How do we handle an education provider not meeting expectations?
+- How do we handle an education provider that's not meeting expectations?
 - How do we ensure education providers are paid fairly?
 
 <!--
@@ -36,11 +36,16 @@ It's important that students, after leaving the educational system, are at a sim
 When it comes to equality in education, we can consider three different extremes:
 - Equal: we try to let each student reach the same level
 - Fair: we put the same effort into educating each student
-- Greedy: we teach students as long as the increased income outweighs the cost of teaching. This means fast learners are educated for longer, more intensely and with a higher quality than slow learners.
+- Greedy: we teach students as long as the increased income outweighs the cost of teaching.
 
-The Dutch educational system is a mix of equal, fair and greedy. It's mostly fair in the sense that most students will get a similar amount of education, with similar class sizes and their teachers receive similar salaries. However, it's also greedy since fast learners are taught slightly longer in the Dutch system. Fast learners generally end their high school at 18 years of age while slower learners end it at age 16. The system is equal in the sense that students who struggle a bit, but not too much, can stay in the same level they were before, but simply take longer to finish it. Such a student will fail to pass a certain year of school and be forced to do that year over. A student who fails a year twice however must go to a lower track, which is 'fair'.
+The Dutch educational system is a mix of equal, fair and greedy. It's mostly fair in the sense that most students will get a similar amount of education, with similar class sizes and their teachers receive similar salaries. However, it's also greedy since fast learners are taught slightly longer in the Dutch system. Fast learners generally end their high school at 18 years of age while slower learners end it at age 16. The system is equal in the sense that students who struggle a bit, but not too much, can stay in the same level they are, but simply take longer to finish it.
 
-When using educational contracts to privatise education, a linear contract, where the layout is linearly coupled to the student's income, leeds to a greedy system. An equal system is created by giving a flat payout as long as the student's income is above a certain minimum. It's not possibe to set the contract payout in such as way that it leads to a 'fair' system, but we believe that a fair system is not a diserable goal, only equal and greedy outcomes are. We therefore suggest combining both the greedy and equal systems:
+When using educational contracts to privatise education, we can set the payout in such a way to achieve different types of equality in our education. 
+- A payout that's linearly coupled to the student's income leads to a greedy system.
+- A flat payout that's given if the student's income is above a certain minimum leads to an equal system.
+- It's not possibe to set the contract payout in such as way that it leads to a fair system. 
+  
+We believe that a fair system is not a diserable goal, only equal and greedy systems are. We suggest combining both the greedy and equal types of payout:
 
 {% highlight haskell %}
 payout income = greedy * greedyPart + (1 - greedy) * equalPart
