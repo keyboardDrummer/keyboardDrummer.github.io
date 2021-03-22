@@ -3,9 +3,7 @@ layout: post
 title: Privatized free education
 ---
 
-Governments around the world often provide free education. The benefit of doing this is huge. One way of expressing this is in terms of government finances. Since education improves people's income, it enables the government to collect more taxes and reduces the social welfare they have to distribute.
-
-Many governments organise the free education they provide themselves. A common argument against state-operated organisations is that they're supposedly not effective at reaching their goal. How are government operated educational systems doing in that regard? Let's look at some data. Here's a poll to collect the opinions of you and your follow readers.
+Governments around the world often provide free education, and most governments organise the free education they provide themselves. A common argument against state-operated organisations is that they're supposedly not effective at reaching their goal. How are government operated educational systems doing in that regard? Let's look at some data. Here's a poll to collect the opinions of you and your follow readers.
 
 <iframe class="qp_iframe" src="https://www.poll-maker.com/frame3521929xF9DC897B-106" seamless="seamless" frameborder="no" style="border:0; background:transparent; width:100%; height:539px;"></iframe><div id='qp_foot3521929' style='width:100%; padding:5px; text-align:center;'>Created with <a href='https://www.poll-maker.com/'>Poll Maker</a></div><STYLE>@media (max-width:320px) {.qp_iframe{min-height:683px}}@media (max-width:375px) {.qp_iframe{min-height:611px}}@media (max-width:414px) {.qp_iframe{min-height:611px}}</STYLE>
 
