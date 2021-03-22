@@ -9,7 +9,7 @@ Governments around the world often provide free education. Almost always, they n
 
 The above poll shows that few of us think our education was optimal. Of course, it's easy to criticise and maybe our education was actually better than we think.
 
-In the media, we can also find numerous issues with eductional as is. In the Netherlands, there are primary school teacher shortages so vast that primary school classes can reach over 50 students. Sometimes schools let people teach that have not yet started their teacher's education, because the schools have no other teachers. Another concern is that only 15% of primary school teachers are male.
+In the media, we can find numerous articles describing issues with educational systems around the globe. In the Netherlands, there are primary school teacher shortages so vast that primary school classes can reach over 50 students. Sometimes schools let people teach that have not yet started their teacher's education, because the schools have no other teachers. Another concern is that only 15% of primary school teachers are male.
 
 # Solution
 Privatizing free education can be done by letting the government sell an education contract that's tied to a specific person. Whomever owns the contract is given some payout each year that depends on the person's income. Owning such a contract thus means you're incentivised to help that person get a great career, which you can do by educating them.
