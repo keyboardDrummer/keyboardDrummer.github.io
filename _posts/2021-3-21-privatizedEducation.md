@@ -18,7 +18,7 @@ Suppose some of the issues in education are caused by it being government-operat
 # Proposal
 Privatizing free education can be done by letting the government sell an education contract. Such a contract is tied to a specific person, who we'll call the student. Whomever owns the contract is given some payout each year that depends on the student's income. Owning the contract thus means you're incentivized to help the student get a great career, which you can do by educating them.
 
-The above approach raises a number of questions that we need to address:
+The above approach raises a number of questions:
 - How do we ensure students are educated equally?
 <!-- - How do we provide broad education not just focused on future income? -->
 - How do we balance the needs of government, parents and student?
@@ -94,13 +94,13 @@ Education providers may offer more or less money to buy a contract, and in the c
 Expensive education providers are those that bid a relatively small amount for an educational contract. The government may ask parents or student to compensate for choosing an expensive education provider. We suggest considering providing parents and student with a fixed educational budget that they can use to spend on more expensive educational providers, so that poor parents also have a choice in what provider to pick.
 
 ## How do we handle an education provider that's not meeting expectations?
-What if an education provider is 'under-educating' the child, not educating them well enough to get the most out of the contract?
+What if an education provider is under-educating the child, not educating them well enough to get the most out of the contract?
 
 Educational contracts are periodically appraised. The government will estimate how much the student will earn throughout their lifetime, and together with its estimations of costs to educate, will determine how much it thinks the education contract the student is currently worth.
 
 Education contracts have a cancellation clause which can be invoked if the government is unhappy with an education provider, which likely happens if they think the provider is under-educating the child. When the cancellation clause is invoked, the education provider is paid the amount the government thinks the contract is currently worth.
 
-If parents or a child are not happy with their education providers, they can ask another education provider to buy the contract from the current one, and offer some money for this. The money can be spent from the parent's educational budget.
+If parents are not happy with an education provider, they can ask another education provider to buy the contract from the current one, and offer some money for this. The money can be spent from the parent's educational budget.
 
 ## How do we ensure education providers are paid fairly?
 Educating a person is an extremely risky and long term investment. It's possible that no private investors are willing to do this. Education contracts should be tradable, so that one provider can sell a contract to another provider. This way, an education contract holder can make a profit simply by increasing the expected income of the student, without actually getting any direct payout from the contract.
