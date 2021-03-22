@@ -91,7 +91,7 @@ The government will likely filter out education providers that it does not trust
 
 Education providers may offer more or less money to buy a contract, and in the case of a student with a learning disability may even ask for money to 'buy' the contract. 
 
-Expensive education providers are those that bid a relatively small amount for an educational contract. The government may ask parents or student to compensate for choosing an expensive education provider. However, we suggest considering providing parents and student with a fixed educational budget that they can use to spend on more expensive educational providers, so that poor parents also have a choice in what provider to pick.
+Expensive education providers are those that bid a relatively small amount for an educational contract. The government may ask parents or student to compensate for choosing an expensive education provider. We suggest considering providing parents and student with a fixed educational budget that they can use to spend on more expensive educational providers, so that poor parents also have a choice in what provider to pick.
 
 ## How do we handle an education provider that's not meeting expectations?
 What if an education provider is 'under-educating' the child, not educating them well enough to get the most out of the contract?
