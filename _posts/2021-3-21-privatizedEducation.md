@@ -14,7 +14,7 @@ The above poll shows that few of us think our education was optimal. Of course, 
 In the media, we can also find numerous issues with eductional as is. In the Netherlands, there are primary school teacher shortages so vast that primary school classes can reach over 50 students. Sometimes schools let people teach that have not yet started their teacher's education, because the schools have no other teachers. Another concern is that only 15% of primary school teachers are male.
 
 # Solution
-Privatizing free education can be done by letting the government sell a 'right to educate' contract that's tied to a specific person. Whomever owns the contract is given some payout each year that depends on the person's income. Owning such a contract thus means you're incentivised to help that person get a great career, which you can do by educating them.
+Privatizing free education can be done by letting the government sell an education contract that's tied to a specific person. Whomever owns the contract is given some payout each year that depends on the person's income. Owning such a contract thus means you're incentivised to help that person get a great career, which you can do by educating them.
 
 There are a number of problems with the above approach that we need to address:
 - How do we ensure students are educated equally?
@@ -88,11 +88,11 @@ Education providers may offer more or less money to buy a contract, and in the c
 Expensive education providers are those that bid a relatively small amount for an educational contract. The government may ask parents or student to compensate for choosing an expensive education provider. However, we suggest considering providing parents and student with a fixed educational budget that they can use to spend on more expensive eductional providers, so that poor parents also have a choice in what provider to pick.
 
 ## How do we handle an education provider that's not meeting expectations?
-What if an education provider is "undereducating" the child, not educating them well enough to get the most out of the right to educate?
+What if an education provider is "undereducating" the child, not educating them well enough to get the most out of the contract?
 
-Educational contracts are periodically appraised. The government will estimate how much the student will earn throughout their lifetime, and together with its estimations of costs to educate, will determine how much it thinks the right to educate the student is currently worth.
+Educational contracts are periodically appraised. The government will estimate how much the student will earn throughout their lifetime, and together with its estimations of costs to educate, will determine how much it thinks the education contract the student is currently worth.
 
-Right to educate contracts have a cancellation clause which can be invoked if the government is unhappy with an education provider, which likely happens if they think the provider is under-educating the child. When the cancellation clause is invoked, the education provider is paid the amount the government thinks the contract is currently worth.
+Education contracts have a cancellation clause which can be invoked if the government is unhappy with an education provider, which likely happens if they think the provider is under-educating the child. When the cancellation clause is invoked, the education provider is paid the amount the government thinks the contract is currently worth.
 
 If parents or a child are not happy with their education providers, they can ask another education provider to buy the contract from the current one, and offer some money for this. The money can be spent from the parent's educational budget.
 
@@ -126,7 +126,7 @@ greediness * factor * lifetime_income + (1 - greediness) * lifetime_flat > educa
 
 -->
 ### Emmigration
-What happens if a student decides to move to another country, where they won't pay taxes to the country where they were educated, and it may not be possible to track their income? Will the holder of the 'right to educate' contract be left without a payout? 
+What happens if a student decides to move to another country, where they won't pay taxes to the country where they were educated, and it may not be possible to track their income? Will the holder of the educational contract be left without a payout? 
 
 In this case the government will make an estimate of what would have been paid out for that person per year, and pay that out on a yearly basis. If the person happens to immigrate back, the normal payment based on their income will continue.
 
