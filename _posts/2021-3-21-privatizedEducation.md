@@ -13,17 +13,16 @@ The above poll shows that few of us think our education was optimal. Of course, 
 
 In the media, we can find numerous articles describing issues with educational systems around the globe. In the Netherlands, there are primary school teacher shortages so vast that primary school classes can reach over 50 students. Sometimes schools let people teach that have not yet started their teacher's education, because they have no one else to teach.
 
-### What do we want from education?
 Instead of looking at the problems in education, we can also approach it from the other side and think of what we want from it.
 
-##### For teachers
+##### What do we want for teachers?
 Teacher salaries that compete with similar jobs in the market, so we can attract enough teachers for our classrooms.
 
 More choices for teachers, such as teaching for more specific age groups. Currently in the Netherlands, a primary school teacher's education prepares teachers for working with the age range of 4 to 12. There's a huge difference between teaching either end of this range, one group needs help going to the bathroom, while the other wants to learn about the world. Some teachers aren't interested in working with both groups, and then decide not to become a teacher altogether.
 
 More differentiation in teacher salaries. Teachers teaching in more expensive cities should get paid more. Excellent teachers should get paid more.
 
-##### For students
+##### What do we want for students?
 More differentiation in student levels. In the Netherlands, it's common for fast learners to skip a year if they tend to go through their current year's material too quickly. However, it's entirely up to the student whether to work ahead or not and often there's no motivation for students to go faster than the average student in their class.
 
 Support with choosing an educational path. Too many students get stuck deciding what to study, and have to try out several studies before finding one that matches them.
@@ -33,10 +32,11 @@ Practical career advice. How do you prepare for interviews? How do you find what
 Education that never stops. What do you do if you get fired? What do you do if a crisis hits and your field collapses? The system should support people in changing their career if needed.
 
 ## Proposal
+We hope to achieve the above goals by introducing a measurable goal for education, and moving the organization of education from the government to private industry. 
+
 Privatizing free education can be done by letting the government sell an education contract. Such a contract is tied to a specific person, who we'll call the student. Whomever owns the contract is given some payout each year that depends on the student's income. Owning the contract thus means you're incentivized to help the student get a great career, which you can do by educating them.
 
 The above approach raises a number of questions:
-- What are we hoping to achieve?
 - How do we ensure students are educated equally?
 <!-- - How do we provide broad education not just focused on future income? -->
 - How do we balance the needs of government, parents and student?
