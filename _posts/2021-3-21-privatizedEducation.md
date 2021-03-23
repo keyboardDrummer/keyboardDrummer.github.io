@@ -14,11 +14,11 @@ The above poll shows that few of us think our education was optimal. Of course, 
 In the media, we can find numerous articles describing issues with educational systems around the globe. In the Netherlands, there are primary school teacher shortages so vast that primary school classes can reach over 50 students. Sometimes schools let people teach that have not yet started their teacher's education, because they have no one else to teach.
 
 Suppose some of the issues in education are caused by it being government-operated, how can we do this differently?
-
-# Proposal
+## Proposal
 Privatizing free education can be done by letting the government sell an education contract. Such a contract is tied to a specific person, who we'll call the student. Whomever owns the contract is given some payout each year that depends on the student's income. Owning the contract thus means you're incentivized to help the student get a great career, which you can do by educating them.
 
 The above approach raises a number of questions:
+- What are we hoping to achieve?
 - How do we ensure students are educated equally?
 <!-- - How do we provide broad education not just focused on future income? -->
 - How do we balance the needs of government, parents and student?
@@ -30,7 +30,25 @@ The above approach raises a number of questions:
 - How can we gradually move to this system?
 -->
 
-## How do we ensure students are educated equally?
+### What are we hoping to achieve?
+
+##### For teachers
+Teacher salaries that compete with similar jobs in the market, so we can attract enough teachers for our classrooms.
+
+More choices for teachers, such as teaching for more specific age groups. Currently in the Netherlands, a primary school teacher's education prepares teachers for working with the age range of 4 to 12. There's a huge difference between teaching either end of this range, one group needs help going to the bathroom, while the other wants to learn about the world. Some teachers aren't interested in working with both groups, and then decide not to become a teacher altogether.
+
+More differentiation in teacher salaries. Teachers teaching in more expensive cities should get paid more. Excellent teachers should get paid more.
+
+##### For students
+More differentiation in student levels. In the Netherlands, it's common for fast learners to skip a year if they tend to go through their current year's material too quickly. However, it's entirely up to the student whether to work ahead or not and often there's no motivation for students to go faster than the average student in their class.
+
+Support with choosing an educational path. Too many students get stuck deciding what to study, and have to try out several studies before finding one that matches them.
+
+Practical career advice. How do you prepare for interviews? How do you find what companies to apply for? How do you negotiate your salary?
+
+Education that never stops. What do you do if you get fired? What do you do if a crisis hits and your field collapses? The system should support people in changing their career if needed.
+
+### How do we ensure students are educated equally?
 It's important that students, after leaving the educational system, are at a similar level of capability. Educational equality improves income equality and reduces the need for social welfare.
 
 When it comes to equality in education, we can consider three different extremes:
@@ -83,7 +101,7 @@ Education providers may differ in factors that don't necessarily relate to impro
 Such factors can be included as part of the educational contract. The contract can specify how much time the student much be educated in each of those topics, and possibly what the outcome should be. If a contract holder does not meet these criteria they can be considered in breach and be forced to sell the contract. We later establish a mechanism for forced sale of a contract.
 -->
 
-## How do we balance the needs of government, parents and student?
+### How do we balance the needs of government, parents and student?
 How do we decide to which education provider to sell a student's education contract? The government, the parents and the students themself are all stakeholders.
 
 We propose that the government first filters the offerings of education providers, after which, depending on the student being of a minimal age, either the parents or the student must select one from the remaining list. 
@@ -93,7 +111,7 @@ Education providers may offer more or less money to buy a contract, and in the c
 
 Expensive education providers are those that bid a relatively small amount for an educational contract. The government may ask parents or student to compensate for choosing an expensive education provider. We suggest considering providing parents and student with a fixed educational budget that they can use to spend on more expensive educational providers, so that poor parents also have a choice in what provider to pick.
 
-## How do we handle an education provider that's not meeting expectations?
+### How do we handle an education provider that's not meeting expectations?
 What if an education provider is under-educating the child, not educating them well enough to get the most out of the contract?
 
 Educational contracts are periodically appraised. The government will estimate how much the student will earn throughout their lifetime, and together with its estimations of costs to educate, will determine how much it thinks the education contract the student is currently worth.
@@ -102,7 +120,7 @@ Education contracts have a cancellation clause which can be invoked if the gover
 
 If parents are not happy with an education provider, they can ask another education provider to buy the contract from the current one, and offer some money for this. The money can be spent from the parent's educational budget.
 
-## How do we ensure education providers are paid fairly?
+### How do we ensure education providers are paid fairly?
 Educating a person is an extremely risky and long term investment. It's possible that no private investors are willing to do this. Education contracts should be tradable, so that one provider can sell a contract to another provider. This way, an education contract holder can make a profit simply by increasing the expected income of the student, without actually getting any direct payout from the contract.
 
 To jump-start the education contract trading market, the government should act as a buyer of education contracts, after which it will try to sell the contract again. To prevent abuse, the government will only buy a contract once every so often, for example only once a year.
@@ -131,7 +149,7 @@ lifetime_payout(person) = greediness * factor * lifetime_income + (1 - greedines
 greediness * factor * lifetime_income + (1 - greediness) * lifetime_flat > education_cost
 
 -->
-### Emigration
+#### Emigration
 What happens if a student decides to move to another country, where they won't pay taxes to the country where they were educated, and it may not be possible to track their income? Will the holder of the educational contract be left without a payout? 
 
 In this case the government will make an estimate of what would have been paid out for that person per year, and pay that out on a yearly basis. If the person happens to immigrate back, the normal payment based on their income will continue.
