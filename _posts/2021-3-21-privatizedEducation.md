@@ -34,7 +34,7 @@ Education that never stops. What do you do if you get fired? What do you do if a
 ## Proposal
 We hope to achieve the above goals by introducing a measurable goal for education, and moving the organization of education from the government to private industry. 
 
-Privatizing free education can be done by letting the government sell an education contract. Such a contract is tied to a specific person, who we'll call the student. Whomever owns the contract is given some payout each year that depends on the student's income. Owning the contract thus means you're incentivized to help the student get a great career, which you can do by educating them.
+Privatizing free education can be done by letting the government sell an education contract once a child reaches an age where we want to start its education. The contract is tied to the child, who we will call the student in this context. Whomever owns the contract is given some payout each year that depends on the student's income. Initially that payout will be zero, since the student has no job yet, but it will start paying out once they reach an employable age and get a job. The contract owner is thus incentivized to help the student get a great career, which they can do by educating them.
 
 The above approach raises a number of questions:
 - How do we ensure students are educated equally?
