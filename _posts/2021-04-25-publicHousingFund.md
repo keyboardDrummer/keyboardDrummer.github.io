@@ -36,7 +36,7 @@ A person is free to decide in which region they want their housing fund to be al
 
 Housing funds will try to match the desired allocation of their members.
 
-### Buying & Selling.
+### Buying & Selling
 In case a person wants to buy a house, their house fund becomes available to use for the purchase. However, if a person wants to sell their house, they are forced to put a part of that sale value back into the housing fund, at least as much as was in their housing fund when they bought the property that they're selling.
 
 ### Leverage
