@@ -16,7 +16,7 @@ The most commonly proposed solution for this problem is to build more houses. Ho
 
 So what triggers these unaffordable housing problems? Part of the blame is often given to real estate investors, people who buys homes only to rent them out again. However, these investors are attracted by shortages in the rental market. What drives these shortages? Often the change is caused by the popularity of a city attracting people, often expats with deep pockets, to move there. We can see that this happened to cities such as London, Berlin, Amsterdam, Vancouver and many others.
 
-We can prevent real estate price increases by disallowing people from moving to a city, but such restrictions have any downsides. Better is if we can protect a cities' inhabitants without adding rules with economical and societal downsides. Note that people who aren't affected by real estate price increases are the people who already own a home. So, let's try to reduce the problem by promoting home ownership. How do we do this effectively?
+We can prevent real estate price increases by disallowing people from moving to a city, but such restrictions have many downsides. People who aren't affected by real estate price increases are the people who already own a home. So, let's try to reduce the problem by promoting home ownership. How do we do this effectively?
 
 ## Forced investment
 
