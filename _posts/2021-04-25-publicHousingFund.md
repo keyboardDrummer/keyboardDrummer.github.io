@@ -3,10 +3,6 @@ layout: post
 title: Public housing fund
 ---
 
-# How to prevent a housing crisis
-
-## What crisis?
-
 Around the world there are often periods where regions experience a lack of housing which is followed by a steep increase is house prices. The human impact of this is huge. Together with housing prices, rent prices increase and renters are priced out of their living area, forced to move further and further from the location they became attached to. Similarly, people wanting to buy a house suddenly find themselves unable to do so. 
 
 <!-- Change the next two paragraphs so they focus on renters not buyers. The solution in this article only helps out long time renters, not fresh buyers, although it helps people buy sooner, maybe? -->
