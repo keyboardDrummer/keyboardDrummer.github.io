@@ -1,3 +1,8 @@
+---
+layout: post
+title: Public housing fund
+---
+
 # How to prevent a housing crisis
 
 ## What crisis?
