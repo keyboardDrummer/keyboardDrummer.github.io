@@ -1,4 +1,8 @@
-# Preventing a housing crisis
+---
+layout: post
+title: Preventing a housing crisis
+---
+
 ## What crisis?
 
 Around the world there are often times when a region experiences a lack of housing which is followed by a steep increase in house prices. The human impact this has is huge. Together with housing prices, rent prices increase and renters are priced out of their living area, forced to move further and further from the place they called their home. Similarly, people wanting to buy a house suddenly find themselves unable to do so. 
@@ -14,7 +18,7 @@ The most commonly proposed solution for overheated housing markets is to build m
 
 What causes unaffordable housing? Part of the blame is often given to real estate investors, people who buys homes only to rent them out again. However, these investors are attracted by shortages in the rental market. What drives these shortages? Often the change is caused by the popularity of a city attracting people, often expats with deep pockets. We can see that this happened to cities such as London, Berlin, Amsterdam, Vancouver and many others.
 
-We can prevent real estate price increases by disallowing people from moving to a city, but such restrictions have any downsides. Better is if we can protect a cities' inhabitants without adding rules with economical and societal downsides. Note that people who aren't affected by real estate price increases are the people who already own a home. So, let's try to reduce the problem by promoting home ownership. How do we do this effectively?
+We can prevent real estate price increases by disallowing people from moving to a city, but such restrictions have many downsides. People who aren't affected by real estate price increases are the people who already own a home. So, let's try to reduce the problem by promoting home ownership. How do we do this effectively?
 
 ## Forced investment
 
@@ -34,7 +38,7 @@ A person may influence into which areas their housing fund is allocated. A perso
 
 Housing funds will try to match the desired allocation of their members.
 
-### Buying & Selling.
+### Buying & Selling
 In case a person wants to buy a house, their house fund becomes available to use for the purchase. However, if a person wants to sell their house, they are forced to put a part of that sale value back into the housing fund, at least as much as was in their housing fund when they bought the property that they're selling.
 
 ### Leverage
