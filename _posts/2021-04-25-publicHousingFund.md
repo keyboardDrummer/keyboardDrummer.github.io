@@ -16,7 +16,7 @@ Some housing markets are so overheated that it becomes difficult to even arrange
 
 The most commonly proposed solution for overheated housing markets is to build more houses. However, newly built houses will still be placed in new locations, away from the locations people are attached to. People wanting to buy or rent for affordable prices will have to do so in these less desirable locations.
 
-What causes unaffordable housing? Part of the blame is often given to real estate investors, people who buys homes only to rent them out again. However, these investors are attracted by shortages in the rental market. What drives these shortages? Often the change is caused by the popularity of a city attracting people, often expats with deep pockets. We can see that this happened to cities such as London, Berlin, Amsterdam, Vancouver and many others.
+What causes unaffordable housing? Part of the blame is often given to real estate investors, people who buy homes only to rent them out again. However, these investors are attracted by shortages in the rental market. What drives these shortages? Often the change is caused by a city becoming popular with expats, whose pockets are deep enough to buy homes at higher prices. We can see that this happened to cities such as London, Berlin, Amsterdam, Vancouver and many others.
 
 We can prevent real estate price increases by disallowing people from moving to a city, but such restrictions have many downsides. People who aren't affected by real estate price increases are the people who already own a home. So, let's try to reduce the problem by promoting home ownership. How do we do this effectively?
 
