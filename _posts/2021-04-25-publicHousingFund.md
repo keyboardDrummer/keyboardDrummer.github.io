@@ -3,53 +3,52 @@ layout: post
 title: Preventing a housing crisis
 ---
 
-## What crisis?
+Housing shortages and subsequent skyrocketing house prices are recurrent issues in regions across the globe. The human impact of these crises is substantial. Escalating housing prices not only affect aspiring homeowners but also lead to increased rental costs, making it increasingly difficult for renters to afford housing in their desired areas.
 
-Around the world there are often times when a region experiences a lack of housing which is followed by a steep increase in house prices. The human impact this has is huge. Together with housing prices, rent prices increase and renters are priced out of their living area, forced to move further and further from the place they called their home. Similarly, people wanting to buy a house suddenly find themselves unable to do so. 
+A frequently proposed solution to tackle overheated housing markets is the construction of additional houses. However, since this construction typically takes place in undeveloped areas, it fails to address the escalating real estate prices in existing regions. Consequently, individuals who are unable to afford the rising costs are forced to relocate farther away from their familiar neighborhoods, disrupting social bonds and established employment.
 
 <!-- Change the next two paragraphs so they focus on renters not buyers. The solution in this article only helps out long time renters, not fresh buyers, although it helps people buy sooner, maybe? -->
+
+<!--
 People become so desperate to buy they waste spend huge energy trying to buy with relatively little to show for it. [Here's](https://www.nrc.nl/nieuws/2020/09/18/gun-mij-uw-huis-please-a4012705) a Dutch article that discusses in what creative ways buyers try to gain the favor of sellers in the hope this will land them the house. Real estate brokers argue that such favoritism hardly ever plays a role in who gets the house.
 
 Some housing markets are so overheated that it becomes difficult to even arrange a viewing of the property. Viewing appointments are booked within a day of them becoming available, with sometimes over a hundred viewers coming to a single property. Prospective buyers are forced to use buying brokers to give them an edge in getting viewing appointments.
+-->
 
-## Prevention
+<!--
+What causes unaffordable housing? Part of the blame is often given to real estate investors, people who buy homes only to rent them out again. However, these investors are attracted by shortages in the rental market. What drives these shortages? Often the change is caused by a city becoming popular with expats, whose pockets are deep enough to buy homes at higher prices. We can see that this happened to cities such as London, Berlin, Amsterdam, Vancouver and many others. 
+We can prevent real estate price increases by disallowing people from moving to a city, but such restrictions have many downsides. 
+-->
 
-The most commonly proposed solution for overheated housing markets is to build more houses. However, newly built houses will still be placed in new locations, away from the locations people are attached to. People wanting to buy or rent for affordable prices will have to do so in these less desirable locations.
+## Home ownership
+A group unaffected by the impact of rising real estate prices are those that already own a home.
 
-What causes unaffordable housing? Part of the blame is often given to real estate investors, people who buy homes only to rent them out again. However, these investors are attracted by shortages in the rental market. What drives these shortages? Often the change is caused by a city becoming popular with expats, whose pockets are deep enough to buy homes at higher prices. We can see that this happened to cities such as London, Berlin, Amsterdam, Vancouver and many others.
+One method governments have used to promote home ownership is by using tax incentives, such as allowing part of a mortgage to be tax deductable. These incentives increase the relative price of renting compared to owning, even though the latter is already cheaper. However, despite such cost reductions, many individuals continue to opt for renting due to several factors, such as uncertainty about preferred location, financial constraints in meeting upfront costs, and a lack of awareness regarding the long-term benefits of homeownership.
 
-We can prevent real estate price increases by disallowing people from moving to a city, but such restrictions have many downsides. People who aren't affected by real estate price increases are the people who already own a home. So, let's try to reduce the problem by promoting home ownership. How do we do this effectively?
+## Mandatory home ownership
+We propose implementing mandatory real estate investment, which may initially seem like an extreme measure that restricts people's freedom to allocate their funds as they choose. However, it is important to recognize that similar systems exist worldwide for various purposes, such as pensions and medical insurance. For instance, in the Netherlands, individuals are obliged to contribute to medical insurance if they have an income, and a portion of an employee's earnings automatically goes towards a pension fund. These systems are rationalized by the fact that healthcare and retirement provisions are necessities for everyone. By compelling individuals to participate, we prevent them from making the potentially detrimental mistake of neglecting these essential aspects.
 
-## Forced investment
-
-One method governments have used to promote home ownership is by using tax incentives. <example> These methods indeed increase the relative price of renting as compared to home ownership, even though home ownership is already cheaper than renting. However, despite such tax incentives, many people are still renting instead of buying. There are many reasons to do so: not knowing where you want to live; being unable to pay the lump sum required to buy a house; not understanding the financial benefits of buying.
-
-We propose to force people to invest in real estate. This measure may seem extreme, taking away people's freedom to choose where they spend their money on. However, note that around the world there are many similar systems for things such as pensions and medical insurance. In the Netherlands, anyone with an income is forced to pay for medical insurance and anyone with an employer automatically has part of their income added to a pension fund. These systems make sense: we know medical care and a pension are things everyone needs, and by forcing people to pay for them we're preventing them from making the mistake of not doing so.
-
-Everyone needs a place to live, so why are we not forcing people to own one?
+Considering that housing is a fundamental requirement for everyone, it begs the question: why aren't we enforcing the ownership of a home?
 
 ## Housing fund
-We propose that everyone with an income and who is living in a rented home, is forced to invest a small part of their income, which we'll call the housing premium, into a housing fund. The housing fund will invest the money it receives into residential property that is then rented out. Anyone who is renting, will also be partly owning a rental property, rented out to another person.
+Our proposal entails mandating individuals with an income and residing in rented homes to allocate a portion of their earnings, referred to as the housing premium, to a designated housing fund. The housing fund will subsequently invest these contributions in residential properties that will be made available for rental purposes. This unique arrangement ensures that renters become partial owners of rental properties, simultaneously benefiting from the returns generated by these investments.
 
-The housing premium a person pays will be a percentage of the rental price they're paying. This way, people control how much premium they're paying, and it's an amount within their budget range. The percentage of rent that's paid as premium is the same for everyone, and is chosen so it provides a trade-off between not taking too much of people's income and building a safety net.
+To maintain affordability and flexibility, the housing premium will be calculated as a percentage of the rental price paid by individuals. This approach empowers individuals to control the amount they contribute, enabling them to align it with their budgetary constraints.
 
 ### Region
-A person may influence into which areas their housing fund is allocated. A person who is confident they will live in city X their entire life can allocate the entire investment to that city, while someone who relocates a lot around the world, for example an academic, may choose a global allocation.
-
-Housing funds will try to match the desired allocation of their members.
+A person may specify into which areas they desire their housing fund should be allocated. A person who is confident they will live in a particular city their entire life can allocate the entire investment their, while someone who has no idea where on the planet they might end up, may choose a global allocation.
 
 ### Buying & Selling
-In case a person wants to buy a house, their house fund becomes available to use for the purchase. However, if a person wants to sell their house, they are forced to put a part of that sale value back into the housing fund, at least as much as was in their housing fund when they bought the property that they're selling.
+When an individual intends to purchase a house, their housing fund becomes accessible for the transaction. However, when the same person decides to sell their property, they are obligated to reinvest a portion of the sale value back into the housing fund, equal to or greater than the amount initially contributed when they purchased the property.
 
 ### Leverage
-When people buy a house, they almost always get a mortgage. The mortgage is a case of what investors call leverage, which is a way to increase the exposure you have to a particular investment.
+When individuals purchase a house, they typically utilize a mortgage, which is a form of leverage in investment terms, allowing them to increase their exposure to the property. While buyers contribute a deposit from their own funds, a significantly larger amount, such as ten times the deposit, is borrowed from a bank to finance the purchase. If the homeowner fails to make mortgage interest payments, the bank has the option to sell the house to recover the loan. The buyer's deposit serves as a safeguard, ensuring that the bank can recoup the loan even if the property's value has declined since the purchase. This leverage is beneficial as it enables buyers to fully acquire the house they require for residence, protecting them from housing price fluctuations.
 
-While the buyer needs to make some deposit from their own account to buy the house, a much larger amount, for example ten times as much, is loaned from the bank to help pay for the house. In case the house owner fails to pay the mortgage interest, the bank can choose to sell the house to pay back the loan. The buyer's deposit gives the bank a guarantee that they'll be able to recuperate the loan even if the property lost value since it was bought. This leverage is good, since it allows the buyer to entirely buy the house they need to live in, providing them safety from housing price increases.
+In the housing fund scheme, a similar concept of leverage can be introduced. The government can augment individuals' exposure to real estate by providing loans, acquiring additional housing assets, and using the individual's housing premium and rental income to cover the interest. This approach works effectively as long as the housing premium remains stable. However, if the premium decreases below the interest rate, the interest becomes unaffordable, necessitating the sale of housing assets to repay the loan until the interest can be met once again. While this scenario is manageable when housing assets have appreciated in value, it becomes problematic if the assets have depreciated, leading to a loss of the individual's investment. To mitigate this risk, the government can limit the interest rate from leverage to ensure it is unlikely to exceed the housing fund premium. In the event of such a situation, the government can assume responsibility for covering the loss, safeguarding citizens' investments and preventing harm.
 
-In the housing fund scheme, we can try to introduce leverage as well. The government may increase a person's exposure to housing real estate by lending money, buying more housing assets and paying off the interest with the person's housing premium and the rental income. This works well as long as the premium is fixed. If the premium is for some reason lowered to below the interest, then the interest can't be paid anymore and housing assets have to be sold to pay off the loan to the point that the interest again becomes payable. This is fine if the housing assets rose in value since they were bought, but becomes a problem if instead the assets lost value: then the government will have lost the citizen's money, and we don't want the government to do harm.
+## Conlusion
 
-The government can mitigate the risk by limiting the interest rate from leverage so that it's unlikely a decrease if the housing fund premium won't be able to cover this interest rate. In case the situation still occurs, the government can cover the loss.
-
+In response to housing shortages and skyrocketing prices, we propose the implementation of a mandatory housing fund for individuals with an income living in rented homes. This fund would make renters partial owners of rental properties, offering them returns on their investments. Participants can influence the allocation of their contributions, and accumulated funds can be used towards home purchases. Leveraging can be introduced cautiously, managing interest rates and mitigating risks. Through these measures, we aim to address affordability, facilitate renters' path to homeownership, and ensure housing market stability for the benefit of individuals and communities.
 
 <!-- 
 > Is it a benefit that the investment builds slowly, so people's investment is relative to how attached they are to their place of living?
