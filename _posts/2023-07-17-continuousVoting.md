@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Continuous voting
+title: Enhancing Coalition Formation and Decision-Making in Multi-Party Systems
 ---
 
 In a multi-party system with periodic elections, parties often seek alliances with similar parties to form a coalition that holds a majority of seats. These coalitions are formed after each election and involve discussions about the laws they plan to implement until the next election. By making deals, parties aim to maximize their influence and achieve their goals based on the seats they hold.
 
-### Problem
+### Difficulties
 The process of forming a coalition is difficult because it requires planning ahead until the next election. In practice this can be so difficult that the formation takes many months during which few if any political decisions are made.
 
 In addition, an early election may be triggered by a majority vote of elected seats. In practice such early elections are common, which means that the proportion of time spent before and after coalition formation increases. This results in a less effective government due to the limited time available for governance and decision-making.
@@ -13,9 +13,7 @@ In addition, an early election may be triggered by a majority vote of elected se
 ### Continuous voting
 Shorter periods between votes should lead to a shorter formation period. Taking this concept to the extreme would mean implementing continuous voting. Under continuous voting, an individual's election vote remains valid until they choose to recast it, which can be done at any time.
 
-With continuous voting, there is no timeline for parties looking to form a coalition to plan for. Moreso, there is no longer a reason to form a coalition. 
-
-Parties should still make deals with each other, but only in the moment, one vote at a time. Such deals can be made by combining law proposals. In the following example, parties Gryffindor and Hufflepuff help each other by voting on a proposal that combines proposals Yellow and Red.
+With continuous voting, there is no timeline for parties looking to form a coalition to plan for. Moreso, there is no longer a reason to form a coalition. Parties should still make deals with each other, but only in the moment, one vote at a time. Such deals can be made by combining law proposals. In the following example, parties Gryffindor and Hufflepuff help each other by voting on a proposal that combines proposals Yellow and Red.
 
 | Proposal | Yellow           | Red           | Orange |
 | -----------------|-------------|-------------| -------- |
