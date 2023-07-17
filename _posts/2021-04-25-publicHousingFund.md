@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preventing a housing crisis
+title: Preventing a Housing Crisis
 ---
 
 Housing shortages and subsequent skyrocketing house prices are recurrent issues in regions across the globe. The human impact of these crises is substantial. Escalating housing prices not only affect aspiring homeowners but also lead to increased rental costs, making it increasingly difficult for renters to afford housing in their desired areas.

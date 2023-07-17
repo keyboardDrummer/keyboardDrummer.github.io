@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Privatized free education
+title: Privatized Free Education
 ---
 
 Governments around the world often provide free education. Almost always, they not only provide but also organize it. 
