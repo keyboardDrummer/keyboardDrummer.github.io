@@ -13,7 +13,7 @@ In addition, an early election may be triggered by a majority vote of elected se
 ### Continuous voting
 Shorter periods between votes should lead to a shorter formation period. Taking this concept to the extreme would mean implementing continuous voting. Under continuous voting, an individual's election vote remains valid until they choose to recast it, which can be done at any time.
 
-With continuous voting, there is no timeline for parties looking to form a coalition to plan for. Moreso, there is no longer a reason to form a coalition. Parties should still make deals with each other, but only in the moment, one vote at a time. Such deals can be made by combining law proposals. In the following example, parties Gryffindor and Hufflepuff help each other by voting on a proposal that combines proposals Yellow and Red.
+With continuous voting, since there is no period until the next election to plan for, there is no longer a purpose to forming a coalition. Parties should still make deals with each other, but only in the moment, one vote at a time. Such deals can be made by combining law proposals. In the following example, parties Gryffindor and Hufflepuff help each other by voting on a proposal that combines proposals Yellow and Red.
 
 | Proposal | Yellow           | Red           | Orange |
 | -----------------|-------------|-------------| -------- |
