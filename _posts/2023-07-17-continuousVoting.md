@@ -1,3 +1,8 @@
+---
+layout: post
+title: Continuous voting
+---
+
 In a multi-party system with periodic elections, parties often seek alliances with similar parties to form a coalition that holds a majority of seats. These coalitions are formed after each election and involve discussions about the laws they plan to implement until the next election. By making deals, parties aim to maximize their influence and achieve their goals based on the seats they hold.
 
 ### Problem
