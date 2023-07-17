@@ -8,7 +8,7 @@ In a multi-party system with periodic elections, parties often seek alliances wi
 ### Difficulties
 The process of forming a coalition is difficult because it requires planning ahead until the next election. In practice this can be so difficult that the formation takes many months during which few if any political decisions are made.
 
-In addition, an early election may be triggered by a majority vote of elected seats. In practice such early elections are common, which means that the proportion of time spent before and after coalition formation increases. This results in a less effective government due to the limited time available for governance and decision-making.
+In addition, an early election may be triggered by a majority vote of elected seats. In practice such early elections are common, which means that the proportion of time spent on coalition formation increases. This results in a less effective government due to the limited time available for governance and decision-making.
 
 ### Continuous voting
 Shorter periods between votes should lead to a shorter formation period. Taking this concept to the extreme would mean implementing continuous voting. Under continuous voting, an individual's election vote remains valid until they choose to recast it, which can be done at any time.
