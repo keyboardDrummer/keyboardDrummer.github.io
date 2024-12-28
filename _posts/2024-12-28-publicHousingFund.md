@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preventing a Housing Crisis: A Market-Based Solution for Housing Security
+title: Preventing a Housing Crisis - A Market-Based Solution for Housing Security
 ---
 
 Housing shortages and skyrocketing prices are creating crises in regions across the globe. The human impact is devastating, particularly for renters. When housing prices rise, landlords often raise rents to match market rates, forcing long-term residents to relocate to more affordable areas—disrupting their social bonds, employment, and community ties.
