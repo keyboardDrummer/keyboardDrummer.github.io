@@ -16,7 +16,7 @@ While many countries implement rent control laws, these measures often backfire.
 ### Government Housing: Promise and Limitations
 Government-provided housing can address supply shortages in controlled markets. The Netherlands uses this approach through "social housing," restricted to lower-income residents. However, despite subsidies, demand far exceeds supply, with typical waiting periods exceeding a decade.
 
-Singapore offers a more successful model, with the majority of citizens living in public housing allocated through rule-based criteria. While effective at preventing displacement, rule-based systems lack the flexibility and efficiency of market mechanisms. We propose a hybrid approach that combines market dynamics with protective measures.
+Singapore offers a more successful model, with the majority of citizens living in public housing allocated through rule-based criteria. While effective at preventing displacement, rule-based systems lack the flexibility and efficiency of market mechanisms. We propose a hybrid approach that combines market dynamics with protective measures. Importantly, this market-based approach does not preclude housing equality between economic classes—such equality can still be achieved through redistributive tax systems or income-dependent housing subsidies.
 
 ### A New Approach: The Mandatory Housing Fund
 We propose requiring renters to contribute a portion of their rent—a housing premium—to a dedicated housing fund. This fund would invest in residential properties for rental purposes, making renters partial owners of the rental market. This arrangement provides several benefits:
