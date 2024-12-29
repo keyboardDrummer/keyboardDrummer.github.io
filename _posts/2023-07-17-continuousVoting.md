@@ -1,5 +1,3 @@
-Let me help improve this blog post while maintaining its core argument about continuous voting as a potential solution for coalition formation delays.
-
 ---
 layout: post
 title: Enhancing Decision-Making in Multi-Party Systems: A Case for Continuous Voting
