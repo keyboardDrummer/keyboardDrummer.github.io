@@ -5,11 +5,11 @@ layout: post
 title: Enhancing Decision-Making in Multi-Party Systems: A Case for Continuous Voting
 ---
 
-Multi-party democracies face a recurring challenge: the formation of governing coalitions. After each election, parties must negotiate alliances to secure a majority, often leading to extended periods of governmental paralysis. While this traditional system has served democracies for generations, its inefficiencies are becoming increasingly apparent in our fast-paced modern world.
+Multi-party democracies face a persistent challenge: the formation of governing coalitions. After elections, parties must negotiate alliances to secure a majority, often resulting in extended periods of governmental paralysis. While this traditional system has served democracies well, its limitations are becoming increasingly apparent.
 
 ### The Coalition Formation Dilemma
 
-During coalition formation periods, countries effectively operate without a fully functioning government. Since these negotiations determine future legislative agendas, parties are often reluctant to make interim decisions. The Netherlands, for instance, holds the European record with an average formation time of 90 days. This extended duration isn't necessarily a flaw – it reflects the complex optimization problem parties face: balancing the desire for favorable terms against the need to implement policies promptly.
+During coalition formation periods, countries effectively operate without a fully functioning government. Since these negotiations determine future legislative agendas, parties are often reluctant to make interim decisions. Formation time can be significant: the Netherlands holds the European record with an average formation time of 90 days. This extended duration isn't necessarily a flaw – it reflects the complex optimization problem parties face: balancing the desire for favorable terms against the need to implement policies promptly.
 The stakes are particularly high because:
 - Laws typically persist beyond new elections
 - Once formed, coalitions can enact legislation quickly
