@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enhancing Decision-Making in Multi-Party Systems - A Case for Continuous Voting
+title: Continuous Democracy - improved multi-party democracy
 ---
 
 Multi-party democracies face a persistent challenge: the formation of governing coalitions. After elections, parties must negotiate alliances to secure a majority, often resulting in extended periods of governmental paralysis. While this traditional system has served democracies well, its limitations are becoming increasingly apparent.
@@ -17,19 +17,23 @@ The situation is further complicated by the frequency of early elections in many
 
 ### Continuous Voting: A Radical Alternative
 
-Continuous voting allows eliminating formation periods entirely. Under this system, citizens' votes remain valid until they actively choose to change them. This creates two significant advantages:
+Continuous voting allows eliminating formation periods entirely. Under this system, there is not a single day during which citizens may cast votes. Instead, citizens may change their vote at any time.
+
+This creates two significant advantages:
 - Without fixed voting periods, parties lose their "safe" negotiation windows, encouraging faster deals
 - Since there is no single election day, votes tend to shift gradually, allowing existing coalitions to be renegotiated rather than rebuilt from scratch
 
 This approach directly addresses both the time inefficiency of traditional coalition formation and the disruption caused by early elections. Rather than forcing complete governmental reorganization at fixed points or during crises, it enables organic political evolution.
 
+Instead of allowing vote recasts at any time, a minimum waiting period between individual votes can be used, both to reduce administrative costs and to control the speed at which voting outcomes change. Similarly, votes may be given a maximum validity time, to ensure old votes that were based outdated information do not pollute the voting outcome. Using the minimum and maximum voting time, it becomes possible to slowly migrate from the existing system of one day voting, to one with continuous voting.
+
 #### Vote counting
 
-Unlike periodic elections where votes are counted in a single event, continuous voting requires an ongoing vote management system. At its core, the system maintains each citizen's most recent vote securely. When someone votes, their previous vote is located, removed, and replaced with the new one, with vote tallies updated accordingly. For deceased voters, their votes are automatically retrieved and removed from the count.
+Unlike periodic elections where votes are counted in a single event, continuous voting requires an ongoing vote management system. At its core, the system stores each citizen's most recent vote in a secure location. When someone votes, their previous vote is located, removed, and replaced with the new one, with vote tallies updated accordingly. For deceased voters, their votes are automatically retrieved and removed from the count.
 
 System integrity is maintained through multiple safeguards. Regular audits verify that no duplicate votes exist and that all voters remain eligible. The system can perform complete vote recounts when needed, and to prevent data loss, each vote is stored redundantly. Voters can verify their current vote at any time, both to refresh their memory and to ensure their vote is recorded correctly.
 
-When a candidate withdraws from consideration, the system automatically invalidates all votes for that candidate and notifies the affected voters so they can cast new votes. This ensures that no vote becomes "orphaned" in the system and that voters maintain active representation.
+When a candidate withdraws from consideration, all votes for that candidate are invalidated, affected voters are notified so they can cast new votes. This ensures that no vote becomes "orphaned" in the system and that voters maintain active representation.
 
 #### Ministerial Appointments in a Continuous System
 
