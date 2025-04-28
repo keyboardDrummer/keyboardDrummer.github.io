@@ -1,4 +1,4 @@
-# Rethinking Global Power: A Tax-Based System for Sustainable World Governance
+# Designing a Viable Global Government
 
 ## The Global Governance Crisis
 
@@ -12,9 +12,12 @@ Perhaps the most devastating consequence of our fragmented system is the persist
 
 Many idealists advocate for a simple democratic global government—one person, one vote across the entire planet. But such a system would likely prove dangerously unstable. When formal voting power significantly diverges from actual power capabilities, powerful actors would inevitably undermine the system rather than accept unfavorable outcomes. We already see this pattern in existing democracies, where campaign financing, lobbying, and media influence allow wealthy individuals and corporations to gain political power far beyond their single vote. A global democracy would face these same issues at unprecedented scale. Nations with military strength, corporations with economic leverage, and wealthy individuals would either physically overthrow the system through force or subvert it through established methods of influence. Democracy doesn't eliminate power imbalances; it merely forces power to express itself through hidden channels rather than transparent ones.
 
+## The Failure of Campaign Finance Reforms
+Some might argue that we could simply regulate away the influence of money in politics through campaign finance laws or limits on political contributions. History has shown this approach to be largely ineffective. When formal channels for power expression are blocked, influence simply redirects through increasingly complex and less transparent mechanisms. Wealthy entities fund PACs, think tanks, media organizations, or astroturf movements instead of direct campaign contributions. They invest in lobbyists, legal challenges, or strategic philanthropy that advances their interests. The fundamental problem remains: actual power will always find expression, whether through formal channels or informal ones. The more we attempt to suppress it through regulation, the more sophisticated and hidden its manifestations become. This regulatory cat-and-mouse game ultimately undermines transparency and accountability while failing to achieve genuine political equality.
+
 ## The Power Formalization Principle
 
-What if, instead of ignoring these power realities, we designed a global governance system that explicitly acknowledges and formalizes them? The fundamental premise of our proposed system is straightforward: structure governance to reflect the actual power that people and entities possess, so that decisions made through governmental systems mirror what would happen if they "fought it out" in the real world—but without the destruction and suffering of actual conflict. By bringing power into the formal system rather than allowing it to operate in the shadows, we create both transparency and stability. This isn't about endorsing power imbalances, but rather acknowledging their existence and channeling them constructively.
+What if, instead of ignoring these power realities, we designed a global governance system that explicitly acknowledges and formalizes them? The fundamental premise of our proposed system is straightforward: structure governance to reflect the actual power that people and entities possess, so that decisions made through governmental systems mirror what would happen if they "fought it out" in the real world—but without the wasted resources of actual conflict. By bringing power into the formal system rather than allowing it to operate in the shadows, we create both transparency and stability. This isn't about endorsing power imbalances, but rather acknowledging their existence and channeling them constructively.
 
 ## Tax Contributions as the Ideal Power Metric
 
@@ -22,7 +25,9 @@ How would we measure this power objectively? We propose tax contributions as the
 
 ## Dynamic Power Measurement
 
-Unlike static systems that enshrine historical power without mechanisms for change, our proposal would dynamically measure contributions over time. Recent contributions would be weighted more heavily than older ones through a time-discounting mechanism, ensuring the system reflects current power rather than past status. This creates a continuously updating power distribution that responds to changing economic and social conditions. Anyone who generates new value and contributes to the collective can gain influence, while those who cease contributing would see their power gradually diminish. This dynamism avoids the ossification of power that plagues many governance systems.
+The system needs to reflect current power rather than historical contributions. A straightforward fixed-period approach works effectively: tax contributions confer voting power for a defined period—perhaps one year—after which they expire if not renewed through continued contributions. This creates a clear, understandable relationship: your current power reflects your recent contributions, not what you did decades ago.
+
+This fixed-period model has several advantages. It's simple to understand and implement. It creates a continuous incentive to remain economically productive. It prevents the accumulation of permanent political power without ongoing contribution. And it allows for relatively rapid power shifts as economic circumstances change. Anyone who generates new value and contributes to the collective can gain influence within a predictable timeframe, while those who cease contributing would lose their power at a known point.
 
 ## Economic Efficiency Through Alignment
 
