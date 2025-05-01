@@ -13,11 +13,9 @@ For a governmental system to scale globally, it must satisfy a fundamental requi
 
 Consider a potential merger between Luxembourg and India under a one-person-one-vote democratic system. Luxembourg, with its 650,000 citizens, would immediately see its political influence diluted to statistical irrelevance within India's 1.4 billion population. Luxembourg citizens would effectively lose all sovereignty, controlling just 0.05% of votes in the combined entity. No rational Luxembourg government would agree to such terms, regardless of economic benefits. Similarly, smaller U.S. states would never have joined the union without constitutional protections beyond pure population-based representation. When formal voting power is based solely on population, economically or militarily powerful but less populous entities have no incentive to participate, as they would be systematically outvoted on issues affecting their core interests.
 
-## The Myth of Pure Democracy
+## The Power Formalization Principle
 
 What are commonly called "democracies" are actually hybrid systems where economic power significantly influences political outcomes. Wealthy individuals and corporations shape policy through campaign financing, lobbying, think tank funding, and media ownership. Studies consistently show correlation between policy outcomes and preferences of economic elites rather than average voters. This isn't corruption of democracy—it's the inevitable expression of power through available channels.
-
-## The Power Formalization Principle
 
 Instead of pretending this dynamic doesn't exist, we could design a system that explicitly acknowledges these power realities. The fundamental premise: structure governance to reflect the actual power that people and entities possess, so that decisions made through governmental systems mirror what would happen if they "fought it out" in the real world—but without the waste of actual conflict. By bringing power into the formal system rather than allowing it to operate in the shadows, we create both transparency and stability.
 
