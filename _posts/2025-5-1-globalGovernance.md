@@ -31,7 +31,7 @@ The widespread adoption of one-person-one-vote systems suggests this approach ca
 
 In our tax-based system, voting power shifts to align with tax contributions. Based on real household income distribution data from the Netherlands in 2024, we see the following:
 
-![alt text](votingPowerBasedOnIncomeData.png)
+![The bottom 50% would see voting power decrease from 49.5% to 19.2%. The middle 40% would gain influence, increasing from 39.6% to 51.0%. The top 10% would increase from 10.9% to 29.8%. The top 1% would control 6.7%. The middle class would gain the most relative power under this system.](/images/votingPowerBasedOnIncomeData.png)
 
 ## What Happens to the Bottom 50%?
 

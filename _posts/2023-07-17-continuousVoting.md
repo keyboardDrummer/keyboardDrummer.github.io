@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Continuous Democracy - enabling stable governance
+title: Continuous Democracy - Enabling Stable Governance
 ---
 
 Multi-party democracies face a persistent challenge: the formation of governing coalitions. After elections, parties must negotiate alliances to secure a majority, often resulting in extended periods of governmental paralysis. While this traditional system has served democracies well, its limitations are becoming increasingly apparent.
