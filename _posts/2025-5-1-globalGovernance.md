@@ -1,6 +1,4 @@
-# Designing a Viable Global Government
-
-## The Global Governance Crisis
+# The Global Governance Crisis
 
 Our current international system fails to address collective challenges that transcend borders. Climate change accelerates without adequate enforcement mechanisms. AI development proceeds with minimal coordination, creating risks as nations and corporations compete without adequate safety protocols. While centuries of diplomatic evolution have occurred, armed conflict remains the ultimate arbiter when national interests clash, with military spending exceeding $2 trillion annually. Our interconnected world's governance remains fragmented, leaving humanity unable to effectively address existential threats.
 
